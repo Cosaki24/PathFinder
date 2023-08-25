@@ -1,0 +1,120 @@
+
+
+Hello, 
+I'm glad you are interested to try this program. I hope you will like it.
+
+This is a guide to help you and make sure you enjoy it and have the best
+experience. You're Welcome.
+
+Prerequisites/Requirements:
+1. A Windows computer with Python(A programming language, not the big snake that eats
+chicken and goats).Mac Users can still run this, but this guide is not for you. Sorry!
+
+2. If you have a computer but don't wan't to install Python(You are lazy)/Don't 
+have a computer(not lazy), you could try online sites that let you run
+Programs.(Google 'Online Python environment' and choose any). 
+Note: The experience might not be the one I desired. I do not recommend it. However,
+if you run out of options, you can still use it. Please check me for more help.
+I am more than ready to help you out.
+
+3. An understanding on Maths(Geometry, Matrices and Vectors) is not a requirement
+but If you possess it you will have the best experience.
+
+4. If you 'BELIEVE' you do not meet the third(3) requirement, do not worry. I feel
+you, I also got you covered. Use 'Pathfinder for Dummies' Program A.K.A Pathfinder_for_dummies.py
+
+5. Literacy and Common Sense.
+
+Let's get started!
+For those who have run Python programs before, your journey in this text ends here!
+Close the text and try the programs (DO NOT OPEN THE CODE! RUN THE PROGRAMS FIRST.
+AFTER RUNNING THE PROGRAM FOR A FEW TIMES AND KNOWING A LITTLE BIT OF WHAT IT DOES
+THEN YOU CAN VISIT THE CODE, AND MAKE CHANGES (IF YOU WANT). You might want to share
+with me those interesting changes(if you also want).I would love to hear them. NOW IF
+YOU DON'T KNOW HOW TO RUN THE PROGRAM WITHOUT VIEWING THE CODE, CONTINUE READING. DO NOT
+CLOSE THIS TEXT OTHERWISE,
+Get out of here!
+
+If you are still reading this text, FOLLOW ME (not me, the steps!)
+1. Open your computer, make sure you have this folder(PathFinder) in your computer
+preferably on your computer Desktop.
+
+2. Open the folder(PathFinder). You should be able to see three files namely:
+	pathfinder.py
+	pathfinder_for_dummies.py
+	READ THIS BEFORE TRYING.txt
+
+3. Next, we are going to check if your computer has Python.
+
+4. Right click (inside this folder on empty space) and click an option which says:
+	"Open in Terminal" or "Open in Command Prompt".
+	
+	If this stage is succesful skip step 5 and go to 6.
+
+5. If you do not see any of the options, open Start and search for 'cmd' or 'Terminal'
+	You will get options like:
+	"Command Prompt" or "Terminal". Choose any.
+
+6. When it opens and you see some text, press ENTER a few times or even a hundred times
+   and you will see some new lines magically appearing. Now type CLS. Did those lines disappear?
+
+7. Type cd Desktop/pathfinder and press ENTER. A new line should appear with 'pathfinder'
+   as the last word.
+   
+8. Now to see if you have Python, type python then press ENTER key. What happens?
+	If you see any the following words or stuff: "Python, 3.blah blah blah, Dates,
+	Help, copyright, credits, license, for more information." 
+	Then, congratulations your computer has Python and it is correctly configured.
+
+ 	Now you are in python. Type print("Hooray, I have Python!")
+	press Enter.(Smiles)
+	type exit().
+
+	Skip step 9, 10, 11. Go to 12.
+	
+9. This step is for those who did not smile in step 8. Don't worry. You will also smile.
+   And your smile will be wider than step-8-ers' smiles. 
+   The thing is your computer doesn't have python the way I want it to have. So we are going
+   to download it (frowns).
+
+	copy this link to your browser to download 
+	link: https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe
+	
+10. After it finishes downloading, open it, accept terms, click Next. Before Clicking Next,
+    look for something(small box saying 'add to PATH' and tick that box).IT IS VERY IMPORTANT.
+    If you miss it, you'll blame yourself. Click next. Check for that box. If you see it tick it.
+    Next, next, next until you finish.
+
+11. Repeat from step 4 or 5 (Depends on what you found), 6, 7, 8. What happens?
+    Wider Smile? If yes, congratulations. You now have Python. Don't forget to type exit().
+
+12. We now all have Python. Let's try our programs. Type cls to clear our 'Command Prompt'
+    or 'Terminal'.
+
+13. The last word on the terminal should be pathfinder.
+
+14. If you are scared, jump to step 15. If you are not type DIR and press ENTER.(What do you think?)
+
+15. You will now run the programs without seeing the code.(Last word should still be pathfinder)
+	for those who think they met requirement 3, type python pathfinder.py
+	for those who didn't, type python pathfinder_for_dummies.py
+
+16. If you followed up to step 15 correctly you should be able to experience the pathfinder program.
+    If you didn't you could try again, or reach me for help or GIVE UP (please don't GIVE UP, and if you do, you
+    are a LOSER)
+
+Final Words.
+I hope you enjoyed the game, and you liked it. Now, you also know how to run Python programs if you didn't 
+before. Next step is to learn how to make your own programs. Anyone can do it (If you want, ofcourse).
+
+Any help, bugs, errors, feedback, suggestions, questions, more games, money, you know where to find me.
+
+I love you!(for guys no homo), for girls(I meant it). Yo ho ho ho!
+
+
+Yours Truly,
+
+Collins. 
+
+
+
